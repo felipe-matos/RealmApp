@@ -3,9 +3,6 @@ Este projeto demonstra como usar o Realm IO para armazenar, gerenciar e sincroni
 
 Realm agora é Atlas Device SDK – [Saiba mais](https://www.mongodb.com/blog/post/realm-now-part-atlas-platform)
 
-[[Realm agora é Atlas Device SDK](https://www.mongodb.com/blog/post/realm-now-part-atlas-platform)]
-
-
 # O que Realm? 
 
 Um banco de dados móvel que roda diretamente em celulares, tablets ou wearables.

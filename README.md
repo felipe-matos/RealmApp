@@ -5,7 +5,7 @@ Realm agora é Atlas Device SDK – [Saiba mais](https://www.mongodb.com/blog/po
 
 # O que Realm? 
 
-Um banco de dados móvel que roda diretamente em celulares, tablets ou wearables.
+O Realm é um banco de dados móvel flexível e de alto desempenho para iOS, Android e JavaScript. Ele oferece uma alternativa poderosa ao SQLite,
 
 # Instalação 
 
